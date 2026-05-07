@@ -2,7 +2,7 @@
 
 **Học viên**: Nguyễn Duy Hiếu — 2A202600153
 **Ngày nộp**: 2026-05-07
-**Submission option**: B (GitHub + HuggingFace Hub) - Khuyến khích nếu bạn đã push adapter.
+**Submission option**: A (Lightweight ZIP) - Đã bao gồm adapter r16 trong thư mục results.
 
 ## 1. Setup
 - **Base model**: `unsloth/Qwen2.5-3B-bnb-4bit`
